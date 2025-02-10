@@ -14,12 +14,6 @@ The **Alphabet Tracing App** is designed to help disabled children learn to writ
 - 📱 Framework: SwiftUI
 - 🎨 Graphics: Custom drawing canvas
 
-📥 Installation
-```sh
-git clone https://github.com/muhammadbokhari1/alphabet-tracing-app.git
-cd alphabet-tracing-app
-open AlphabetTracing.xcodeproj
-```
 Run the project in Xcode and deploy it on a simulator or a real device.
 
 🤝 Contributing
