@@ -25,7 +25,7 @@ struct ContentView: View {
                         .cornerRadius(10)
                 }
 
-                // Credit line
+                // Credit line my NAME IS MUHAMMAD
                 Text("By Muhammad Bokhari (19165120)")
                     .font(.footnote)
                     .foregroundColor(.gray)
